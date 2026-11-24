@@ -4,6 +4,8 @@ public class App {
 		System.out.println("Welcome to My Application");
 		System.out.println("Addition is:"+(a+b));
 		System.out.println("substraction is:"+(a-b));
+		System.out.println("product is:"+(a*b)
+		System.out.println("division is:"+(a/b;
 	}
 }
 
